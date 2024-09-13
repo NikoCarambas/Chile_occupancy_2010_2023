@@ -22,20 +22,6 @@ This project presents an in-depth analysis of gender-based occupation difference
 
 - **Map Results**: The final results of the mapping process are stored in the `Map_results/` folder.
 
-## **Key Insights**
-
-1. **Occupation Disparities**: 
-   - Clear trends showing a significant disparity in job loss between men and women during the pandemic.
-   - Analysis of specific sectors that were most affected.
-
-2. **Regional Variations**:
-   - Certain regions saw a more profound impact on female occupation, particularly in urban areas.
-
-3. **Visualization**: 
-   - Maps and graphs generated from the data offer a clear, visual understanding of how occupation was affected by gender and region in Chile.
-
-## **Running the Project**
-
 To explore the code and replicate the analysis:
 
 1. **Clone the Repository**:
@@ -60,9 +46,8 @@ To explore the code and replicate the analysis:
 ## **Technologies Used**
 
 - **R**: Data cleaning, analysis, and statistical evaluation.
-- **Python**: Visualization and geospatial mapping using libraries like `GeoPandas` and `Folium`.
+- **Python**: Visualization and geospatial mapping.
 - **GeoJSON** and **Shapefiles**: To map the Chilean regions.
-- **Jupyter Notebook** and **RCloud**: For executing the notebooks and scripts.
 
 ## **Contributing**
 
