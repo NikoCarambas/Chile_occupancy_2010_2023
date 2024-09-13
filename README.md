@@ -22,6 +22,8 @@ This project presents an in-depth analysis of gender-based occupation difference
 
 - **Map Results**: The final results of the mapping process are stored in the `Map_results/` folder.
 
+- **Images**: The prints of the charts and map created are stored in the `Prints/` folder.
+
 To explore the code and replicate the analysis:
 
 1. **Clone the Repository**:
